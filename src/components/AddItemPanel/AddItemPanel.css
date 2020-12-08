@@ -1,0 +1,10 @@
+.add-item-panel {
+  margin: 1rem 0;
+  display: flex;
+}
+.add-item-panel .btn {
+  margin-left: auto;
+}
+.add-item-panel input {
+  margin-right: 3px;
+}
